@@ -8,4 +8,8 @@ I was after several goals on this build:
 - Leverage [TailwindCSS](https://tailwindcss.com) for layout development
 - Unify styles across plugins for a seamless user experience
 
-This build is for demonstration purposes only. If you choose to download this theme and try to run it, you will need ACF Pro installed for it to function properly.
+## Highlights
+
+- Bespoke [Lightbox](https://github.com/TheCruzat/CPRF-v1/blob/a88d8c01626970df1c7cbbf4c81c920c36088193/js/scripts.js#L49) functionality
+
+This build is for demonstration purposes only.
